@@ -258,5 +258,71 @@
       ],
       "answerIndex": 1,
       "explanation": "Images are blueprints; containers are running instances of images."
-    }
+    },
+    {
+        "id": "Q21",
+        "topic": "Continuous Integration",
+        "question": "What is automated testing in CI?",
+        "options": [
+          "Testing done by humans only",
+          "Tests that run automatically when code is pushed",
+          "Testing once a year",
+          "No testing at all"
+        ],
+        "answerIndex": 1,
+        "explanation": "Automated tests run automatically to catch bugs early."
+      },
+      {
+        "id": "Q22",
+        "topic": "Continuous Deployment",
+        "question": "What is canary deployment?",
+        "options": [
+          "Deploying to bird-themed servers",
+          "Releasing to a small subset of users before full rollout",
+          "Deploying only on Fridays",
+          "A type of testing"
+        ],
+        "answerIndex": 1,
+        "explanation": "Canary deployment reduces risk by testing with a small user group first."
+      },
+      {
+        "id": "Q23",
+        "topic": "Version Control",
+        "question": "What does 'git clone' do?",
+        "options": [
+          "Deletes a repository",
+          "Creates a local copy of a remote repository",
+          "Merges two branches",
+          "Creates a new branch"
+        ],
+        "answerIndex": 1,
+        "explanation": "Git clone downloads a repository to your local machine."
+      },
+      {
+        "id": "Q24",
+        "topic": "Containerization",
+        "question": "What is Docker Hub?",
+        "options": [
+          "A physical location for servers",
+          "A cloud-based registry for Docker images",
+          "A type of container",
+          "A CI/CD tool"
+        ],
+        "answerIndex": 1,
+        "explanation": "Docker Hub is a repository for sharing and storing Docker images."
+      },
+      {
+        "id": "Q25",
+        "topic": "Version Control",
+        "question": "What is 'git stash' used for?",
+        "options": [
+          "Permanently deleting changes",
+          "Temporarily saving uncommitted changes",
+          "Creating a new branch",
+          "Pushing to remote"
+        ],
+        "answerIndex": 1,
+        "explanation": "Git stash temporarily stores changes so you can switch branches."
+      }
   ]
+  
