@@ -323,6 +323,72 @@
         ],
         "answerIndex": 1,
         "explanation": "Git stash temporarily stores changes so you can switch branches."
+      },
+      {
+        "id": "Q26",
+        "topic": "Continuous Integration",
+        "question": "What is a build artifact in CI?",
+        "options": [
+          "A bug in the code",
+          "The output produced after compiling or building the application",
+          "A deployment environment",
+          "A test case"
+        ],
+        "answerIndex": 1,
+        "explanation": "Build artifacts are the generated files (e.g., binaries) produced during the build process."
+      },
+      {
+        "id": "Q27",
+        "topic": "Continuous Deployment",
+        "question": "Which practice helps reduce risk in Continuous Deployment?",
+        "options": [
+          "Manual testing only",
+          "Feature flags",
+          "Deploying once a year",
+          "Avoiding automation"
+        ],
+        "answerIndex": 1,
+        "explanation": "Feature flags allow enabling or disabling features without redeploying."
+      },
+      {
+        "id": "Q28",
+        "topic": "Version Control",
+        "question": "What command is used to check the status of a Git repository?",
+        "options": [
+          "git log",
+          "git status",
+          "git push",
+          "git init"
+        ],
+        "answerIndex": 1,
+        "explanation": "git status shows the current state of the working directory and staging area."
+      },
+      {
+        "id": "Q29",
+        "topic": "Containerization",
+        "question": "Why are containers considered lightweight?",
+        "options": [
+          "They require separate operating systems",
+          "They share the host operating system kernel",
+          "They use more hardware resources",
+          "They run only one process"
+        ],
+        "answerIndex": 1,
+        "explanation": "Containers share the host OS kernel, making them more efficient than virtual machines."
+      },
+      {
+        "id": "Q30",
+        "topic": "Version Control",
+        "question": "What does 'git pull' do?",
+        "options": [
+          "Uploads local changes to a remote repository",
+          "Fetches and merges changes from a remote repository",
+          "Deletes a remote branch",
+          "Creates a new repository"
+        ],
+        "answerIndex": 1,
+        "explanation": "git pull retrieves updates from a remote repository and merges them into the current branch."
       }
+      
   ]
   
