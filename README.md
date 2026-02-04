@@ -1,4 +1,4 @@
-# DevOps Quiz App
+# DevOps Quiz App - Student 1 Edition
 
 A simple web application to test your knowledge of DevOps concepts.
 
